@@ -136,11 +136,3 @@ python run_loom.py my_app.py
 * Package with `console_scripts` for global CLI use.
 
 ---
-
-## License
-
-MIT License © 2025
-
----
-
-Would you like me to **update the ZIP with this README already replaced** so you can directly push to GitHub? Or also **add GitHub badges and contribution guidelines (CONTRIBUTING.md + CHANGELOG.md)**?
